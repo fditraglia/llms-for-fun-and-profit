@@ -61,6 +61,8 @@ I subscribe to all three "frontier" models:
 
 ## Create `.tex` from Handwritten Notes
 
+![Using Claude artifact: only minimal manual editing](whiteboard-to-tex.png)
+
 ## Make clipart for your slides
 
 <!--two column layout with images side-by-side, adjusting width of each to fit-->
