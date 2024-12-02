@@ -6,23 +6,71 @@ format:
     embed-resources: true
 ---
 
-## Quarto
-
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
-
-## Bullets
-
-When you click the **Render** button a document will be generated that includes:
-
--   Content authored with markdown
--   Output from executable code
-
-## Code
-
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+## Link to these slides
 
 ```{r}
-1 + 1
+#| message: false
+#| warning: false
+library(qrcode)
+code <- qr_code('https://ditraglia.com/llms-for-fun-and-profit')
+plot(code)
 ```
 
+[https://ditraglia.com/llms-for-fun-and-profit](https://ditraglia.com/llms-for-fun-and-profit)
 
+
+
+## While I have your attention...
+
+- LLMs are a *complement* to other tools
+- They lower the cost of learning new things
+- Low-hanging fruit: 
+
+  1. Learn how to touch type fast!
+  2. Version control with git / github
+  3. The LaTeX exam class
+  4. Quarto / Markdown
+
+## Is your workflow stuck in the 1990s?
+
+- `paper_restud_final_v23_withedits_revised.tex`
+- "Why have all the numbers in table 2 changed?"
+- "I can't find the version we submitted to Econometrica!"
+- "I'm working in Dropbox now: stay out of the paper folder!"
+- "Oops: I gave the wrong exam to the MPhil students!"
+
+## Version Control: git / github
+
+- Keep past versions of your work without the clutter 
+- Collaborate with others without the chaos
+- Track changes to your work over time
+- Share your code / results with the world
+- Let's Git started! 
+  - [Happy Git and Github](https://happygitwithr.com/)
+  - Repos for [these slides](https://github.com/fditraglia/llms-for-fun-and-profit/), [my website](https://github.com/fditraglia/fditraglia.github.io), [a paper](https://github.com/fditraglia/binary-regressor)
+
+
+## The LaTeX Exam Class
+
+I thought every one already used this; but apparently not...
+
+<!--insert and image below-->
+![Choose whether to show solutions](exam-class1.png)
+
+##
+
+![Single TeX file file for questions and solutions](exam-class2.png)
+
+##
+
+![Two different pdfs from the same TeX file](exam-class3.png)
+
+
+## Quarto / Markdown
+
+- This document was made using [Quarto](https://quarto.org/)
+- Weave together content \& code into a finished document
+- Many output formats: slides, papers, websites, books, etc.
+- Even Microsoft Word / Powerpoint! 
+  - <crosses self, sprays holy water>
+- Simple syntax, easy to learn: based on [Markdown](https://www.markdownguide.org/)
