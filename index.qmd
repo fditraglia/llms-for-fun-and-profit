@@ -74,9 +74,21 @@ I subscribe to all three "frontier" models:
 
 ## Get Help Writing Grants
 
-Help you write grants: read through a long notes document, read through grant requirements, and suggest things to talk about
+- Upload your notes on a project / grant ideas
+- Upload the grant requirements from the website
+- Ask for help fitting your content into the required boxes
+  - E.g. "narrative CV" for UKRI 
+- Re-write in your own words; then ask for writing feedback
+- **Trust me: this actually works**
 
 ## An Improved Rubber Duckie
+
+- LLMs can't (yet) fully explain an Econometrica paper to you
+- But they can help you explain it to yourself!
+- Upload the paper; ask for a summary
+- Then start a conversation with the LLM. 
+- When it gets something wrong, try explaining why it's wrong.
+- Continue the conversation
 
 ## But wait: there's more! {.smaller}
 
@@ -114,12 +126,14 @@ Help you write grants: read through a long notes document, read through grant re
 :::
 
 
-## While I have your attention...
+## LLMs as Complements to Other Tools 
 
 - LLMs lower cost of learning *other* productivity tools
+- Great at teaching and debugging coding / tech tools 
+- Ask for help; try things; paste in the error messages; repeat
 - Low-hanging fruit: 
 
-  1. Learn how to touch type fast!
+  1. Learn how to touch type and use a good editor! 
   2. Version control with git / github
   3. The LaTeX exam class
   4. Quarto / Markdown
