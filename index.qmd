@@ -18,12 +18,62 @@ plot(code)
 
 [https://ditraglia.com/llms-for-fun-and-profit](https://ditraglia.com/llms-for-fun-and-profit)
 
+## LLMs are the best RA you've ever had
 
+- Dramatically faster
+- Dramatically cheaper
+- 80th percentile (my opinion) in general aptitude 
+- 99th percentile (my opinion) in coding
+
+**If you're not using LLMs on a daily basis, you're missing out.**
+
+## Which LLMs to use?
+
+I subscribe to all three "frontier" models:
+
+- I use [Claude](https://claude.ai) and [ChatGPT](https://chatgpt.com) daily; occasionally [Gemini](https://gemini.google.com)
+- Claude is my favorite, esp. for coding / language tasks
+- ChatGPT has more bells and whistles
+  - Generate images
+  - `o1` for "deep thinking" (useful for math) 
+  - search the web
+- Gemini has never given me good results but I keep trying
+
+## Reverse-compile a LaTeX Document
+
+- This tutorial sheet is full of typos; but I don't have the TeX! 
+- Two options
+  1. Copy-and-paste the text of the .pdf into an LLM or
+  2. Upload the .pdf itself 
+- Provide a prompt like this:
+
+> Here is text that I've copied and pasted from a .pdf document generated using LaTeX. Please give me the undelyring TeX code needed to generate this document. 
+
+## Create `.tex` from Handwritten Notes
+
+
+## List of things
+
+1. Reverse compile a LaTeX document.
+2. Help you make a TikZ figure (flowchart)
+3. Get help using Hugo / the command line / git etc. (feed in error messages)
+4. Convert whiteboard notes into LaTeX
+5. Make clipart for your teaching slides
+6. Help you write tweets that stay in the word limit and are idiomatic
+7. Help you write grants: read through a long notes document, read through grant requirements, and suggest things to talk about
+8. Practice giving an Oxford undergraduate interview
+9. Get feedback on your teaching materials
+10. Create new teaching examples (esp coding examples)
+11. An improved rubber duckie: talk to it about something you're trying to understand better. Optionally, feed in a paper you don't understand or take a picture of a paragraph you don't understand.
+12. Get legal advice / ask for help drafting formal legal documents (e.g. formal complaint): seriously it's pretty good. Ask ChatGPT to *point you to particular precedents or statutes that are relevant*. Then look these up on govt websites and other sources.
+13. Get help learning a new language or improving one you already know.
+14. Get help setting boundaries with students, giving harsh feedback, etc. (Check email for tone, write a pitch perfect "you're in trouble now" email for an Oxford student, including welfare support etc.)
+15. Help writing a blog post: get feedback on organization and content.
+16. Check your algebra / help you with derivations: o1 is best for this in my experience although Claude is also very good despite lacking TeX display capability.
 
 ## While I have your attention...
 
-- LLMs are a *complement* to other tools
-- They lower the cost of learning new things
+- LLMs lower cost of learning *other* productivity tools
 - Low-hanging fruit: 
 
   1. Learn how to touch type fast!
@@ -74,3 +124,5 @@ I thought every one already used this; but apparently not...
 - Even Microsoft Word / Powerpoint! 
   - <crosses self, sprays holy water>
 - Simple syntax, easy to learn: based on [Markdown](https://www.markdownguide.org/)
+
+# Thanks for listening!
