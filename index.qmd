@@ -172,6 +172,11 @@ I thought every one already used this; but apparently not...
 
 ![Two different pdfs from the same TeX file](exam-class3.png)
 
+## Learning the Exam Class
+
+- [Package Website](https://www.ctan.org/pkg/exam?lang=en)
+- [Using the LaTex Exam Class](https://math.mit.edu/~psh/exam/examdoc.pdf)
+- [My past exams for Econ 103](https://github.com/fditraglia/Econ103Public/tree/master/PracticeExams)
 
 ## Quarto / Markdown
 
