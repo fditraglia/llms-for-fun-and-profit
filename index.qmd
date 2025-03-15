@@ -127,6 +127,13 @@ I subscribe to all three "frontier" models:
 :::
 :::
 
+## Even more things to add later and maybe expand on
+
+- Change notation in your LaTeX document (usually I do this chunk-by-chunk to check for errors)
+- Create job candidate summaries based on a large number of CVs and cover-letters; apply a scoring rule to the summaries; output a table (Claude projects are great for this)
+- Build an interactive web app
+- Deep Research!
+
 
 ## LLMs as Complements to Other Tools 
 
